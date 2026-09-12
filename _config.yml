@@ -26,22 +26,22 @@ author:
   avatar           : "profile.png"
   name             : "Fabio Scielzo-Ortiz"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "He is a researcher at the UC3M-Santander Big Data Institute. He obtained his Bachelor's degree in Statistics and Business from Carlos III University of Madrid (UC3M) in 2023 and his Master's degree in Big Data from the same university in 2024. He is a PhD student in Statistics for Data Science at UC3M. At IBiDat, he works on Data Science and applied research projects."
+  location         : "Madrid, Spain"
+  employer         : "IBiDat, Universidad Carlos III Madrid"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fabio.scielzo@uc3m.es" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=P5OIPnAAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0007-2677-9533"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # URL
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
