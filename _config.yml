@@ -26,9 +26,9 @@ author:
   avatar           : "profile.png"
   name             : "Fabio Scielzo-Ortiz"
   pronouns         : # example: "she/her"  
-  bio              : "He is a researcher at the UC3M-Santander Big Data Institute. He obtained his Bachelor's degree in Statistics and Business from Carlos III University of Madrid (UC3M) in 2023 and his Master's degree in Big Data from the same university in 2024. He is a PhD student in Statistics for Data Science at UC3M. At IBiDat, he works on Data Science and applied research projects."
+  bio              : "I am a researcher at the UC3M-Santander Big Data Institute. He obtained his Bachelor's degree in Statistics and Business from Carlos III University of Madrid (UC3M) in 2023 and his Master's degree in Big Data from the same university in 2024. He is a PhD student in Statistics for Data Science at UC3M. At IBiDat, he works on Data Science and applied research projects."
   location         : "Madrid, Spain"
-  employer         : "IBiDat, Universidad Carlos III Madrid"
+  employer         : "IBiDat, UC3M"
   uri              : # URL
   email            : "fabio.scielzo@uc3m.es" 
 
@@ -51,13 +51,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "FabioScielzoOrtiz"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" 
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
