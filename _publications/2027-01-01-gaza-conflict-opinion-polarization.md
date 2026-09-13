@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-02-01-gaza-conflict-opinion-polarization
 excerpt: 'A robust computational framework, combining LLM-based feature extraction with robust mixed-data clustering, to detect and analyze international opinion groups on the Gaza conflict from Reddit data.'
-date: 2026-02-01 # TODO: placeholder date, pending submission
+date: 2027-01-01 # TODO: placeholder date, pending submission
 venue: 'Submitted for publication'
 slidesurl:
 paperurl:

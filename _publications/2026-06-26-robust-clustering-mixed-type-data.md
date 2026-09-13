@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-09-01-robust-clustering-mixed-type-data
 excerpt: 'New distance-based robust clustering algorithms designed to scale to large volumes of mixed-type multivariate data.'
-date: 2026-09-01
+date: 2026-06-26
 venue: 'Advances in Data Analysis and Classification'
 slidesurl:
 paperurl: 'https://doi.org/10.1007/s11634-026-00701-9'

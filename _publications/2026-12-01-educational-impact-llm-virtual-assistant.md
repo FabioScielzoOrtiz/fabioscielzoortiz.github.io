@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2026-03-01-educational-impact-llm-virtual-assistant
 excerpt: 'A controlled trial with secondary and vocational students examining whether an LLM-based pedagogical agent layered on instructional video improves learning gains, self-efficacy and cognitive load.'
-date: 2026-03-01 # TODO: placeholder date, pending submission
+date: 2026-12-01 # TODO: placeholder date, pending submission
 venue: 'Submitted to Journal of Computer Assisted Learning (JCAL)' # TODO: confirm target journal and author list
 slidesurl:
 paperurl:
