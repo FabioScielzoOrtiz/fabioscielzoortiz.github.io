@@ -13,8 +13,8 @@ Research interests
 ======
 * Statistical learning and distance/depth-based methods for complex, large-scale data
 * Robust clustering for mixed-type and weighted data
-* Time series forecasting
-* Generative AI and its applications in education
+* Applied Statistics
+* Generative AI and its applications
 * Software development for statistics and machine learning (Python packages, APIs, automation)
 
 PhD research
