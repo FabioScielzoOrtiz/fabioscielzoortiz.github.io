@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics for Data Science, Universidad Carlos III de Madrid, 2024 - present
+  * Thesis: *"Statistical Learning Methods Based on Distances and Depths for Large-Scale Data with Complex Structure"*
+  * Supervisor: Prof. Aurea Grané Chávez
+* M.Sc. in Big Data Analytics, Universidad Carlos III de Madrid, 2023 - 2024 (GPA: 8.6/10)
+* B.Sc. in Statistics and Business, Universidad Carlos III de Madrid, 2019 - 2023 (GPA: 8.5/10; best academic record of the 2019-2023 cohort)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2024 - present: Data Scientist
+  * UC3M-Santander Big Data Institute (IBiDat)
+  * Duties included: data analysis and modeling, machine learning, generative AI systems, time series forecasting, software development and automation (Python, Git, APIs, Docker, MongoDB), technical documentation and reporting
+  * Selected projects: demand estimation for public parking and interurban public transport (Grupo Ruiz); a GenAI virtual assistant and an automated video clip generation/evaluation tool (Universia - Banco Santander); research on the impact of generative AI in education
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 01/2025: Python Programming Instructor
+  * ANBAN Data Science Bootcamp
+  * Duties included: designing and teaching the *Python Programming for Data Science* module
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 04/2024: Machine Learning Instructor
+  * Saturdays AI &amp; ANBAN, Universidad de Elche
+  * Duties included: teaching a session on supervised classification
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming &amp; tools: Python, Git, APIs, Docker, MongoDB
+* Statistics &amp; Machine Learning: robust statistics, distance- and depth-based methods, clustering, statistical/machine learning modeling
+* Forecasting: time series forecasting
+* Generative AI: LLM-based systems design and evaluation
+* Documentation &amp; technical reporting
+* Languages: Spanish (native), English (B2, Linguaskill English Test - Cambridge)
 
 Publications
 ======
@@ -61,4 +61,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<!-- TODO: add service/leadership activities (e.g. peer review, committees, outreach) if applicable -->
+* Placeholder — add any service or leadership activities here.
