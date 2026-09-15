@@ -15,7 +15,7 @@ var addressPoints = [
     -5.6640182
   ],
   [
-    "XLI National Congress in Statistics, Operations Research and Data Science (SEIO 2026)<br />XLI National Congress in Statistics and Operations Research (SEIO 2025); Lleida, Spain",
+    "XLI National Congress in Statistics, Operations Research and Data Science (SEIO 2025)<br />XLI National Congress in Statistics and Operations Research (SEIO 2025); Lleida, Spain",
     41.6147605,
     0.6267842
   ],
