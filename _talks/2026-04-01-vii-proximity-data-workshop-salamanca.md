@@ -8,4 +8,6 @@ date: 2026-04-16
 location: "Salamanca, Spain"
 ---
 
-Participation in the VII International Workshop on Proximity Data. Multivariate Analysis and Classification, organized by the AMyC Group and SEIO at Universidad de Salamanca (16-17 April 2026, 16 hours).
+Oral presentation of ![“New distance-based robust clustering algorithms for large mixed-type data”](https://link.springer.com/article/10.1007/s11634-026-00701-9) at the VII International Workshop on Proximity Data. Multivariate Analysis and Classification, organized by the AMyC Group and SEIO at Universidad de Salamanca (AMyC 2026).
+
+![Presentación AMyC 2026](/images/talk_amyc_2026.jpeg)
