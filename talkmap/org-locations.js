@@ -5,7 +5,7 @@ var addressPoints = [
     -8.5192983
   ],
   [
-    "New Clustering Algorithms for Large Mixed-Type Data<br />XIII Jornada Estad\u00edstica UAM, Departamento de Matem\u00e1ticas, Universidad Aut\u00f3noma de Madrid; Madrid, Spain",
+    "XIII Jornada Estad\u00edstica UAM 2026<br />XIII Jornada Estad\u00edstica UAM, Departamento de Matem\u00e1ticas, Universidad Aut\u00f3noma de Madrid; Madrid, Spain",
     40.416782,
     -3.703507
   ],
