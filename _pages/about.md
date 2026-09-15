@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Data Scientist at the [UC3M-Santander Big Data Institute (IBiDat)](https://www.uc3m.es/ibidat/home) and a PhD student in Statistics for Data Science at Universidad Carlos III de Madrid (UC3M), supervised by Prof. Aurea Grané Chávez. I hold a Bachelor's degree in Statistics and Business (UC3M, 2023) and a Master's degree in Big Data Analytics (UC3M, 2024). My work sits at the intersection of statistical methodology, machine learning and applied data science, and I am equally interested in developing new methods and in building the software and production systems that make them usable.
+I am a Data Scientist at the [UC3M-Santander Big Data Institute (IBiDat)](https://ibidat.es/) and a PhD student in Statistics for Data Science at Universidad Carlos III de Madrid (UC3M), supervised by Prof. Aurea Grané Chávez. I hold a Bachelor's degree in Statistics and Business (UC3M, 2023) and a Master's degree in Big Data Analytics (UC3M, 2024). My work sits at the intersection of statistical methodology, machine learning and applied data science, and I am equally interested in developing new methods and in building the software and production systems that make them usable.
 
 Research interests
 ======
