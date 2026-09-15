@@ -15,17 +15,17 @@ var addressPoints = [
     -5.6640182
   ],
   [
-    "Robust Clustering for Large Datasets of Weighted and Mixed-Type Data: An Application to Mental Well-Being in Older Adults<br />XLI National Congress in Statistics and Operations Research (SEIO); Lleida, Spain",
+    "XLI National Congress in Statistics, Operations Research and Data Science (SEIO 2026)<br />XLI National Congress in Statistics and Operations Research (SEIO 2025); Lleida, Spain",
     41.6147605,
     0.6267842
   ],
   [
-    "Robust Clustering for Large Datasets of Weighted and Mixed-Type Data: An Application to Mental Well-Being in Older Adults<br />3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society; Milan, Italy",
+    "3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society<br />3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society; Milan, Italy",
     45.4641943,
     9.1896346
   ],
   [
-    "New Clustering Algorithms for Large Mixed-Type Data<br />6th International Workshop on Proximity Data, Multivariate Analysis and Classification; Girona, Spain",
+    "VI International Workshop on Proximity Data. Multivariate Analysis and Classification (AMyC 2024)<br />6th International Workshop on Proximity Data, Multivariate Analysis and Classification; Girona, Spain",
     41.9793006,
     2.8199439
   ],
