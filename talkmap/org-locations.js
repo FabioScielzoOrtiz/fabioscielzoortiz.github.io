@@ -15,7 +15,7 @@ var addressPoints = [
     -3.703507
   ],
   [
-    "Quantifying Global Polarization: Detection and Analysis of Opinion Groups on the Gaza Conflict at International Level Based on Reddit Data<br />XLII National Congress in Statistics, Operations Research and Data Science (SEIO 2026), Universidade de Santiago de Compostela; Santiago de Compostela, Spain",
+    "XLII National Congress in Statistics, Operations Research and Data Science (SEIO 2026)<br />XLII National Congress in Statistics, Operations Research and Data Science (SEIO 2026), Universidade de Santiago de Compostela; Santiago de Compostela, Spain",
     42.9064576,
     -8.5192983
   ],
@@ -30,7 +30,7 @@ var addressPoints = [
     9.1896346
   ],
   [
-    "VII International Workshop on Proximity Data. Multivariate Analysis and Classification<br />VII International Workshop on Proximity Data. Multivariate Analysis and Classification (AMyC Group / SEIO), Universidad de Salamanca; Salamanca, Spain",
+    "VII International Workshop on Proximity Data, Multivariate Analysis and Classification (AMyC 2026)<br />VII International Workshop on Proximity Data. Multivariate Analysis and Classification (AMyC Group / SEIO), Universidad de Salamanca; Salamanca, Spain",
     40.9651572,
     -5.6640182
   ]
