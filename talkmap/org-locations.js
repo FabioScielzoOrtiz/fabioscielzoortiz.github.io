@@ -5,7 +5,7 @@ var addressPoints = [
     -8.5192983
   ],
   [
-    "XIII Jornada Estad\u00edstica UAM 2026<br />XIII Jornada Estad\u00edstica UAM, Departamento de Matem\u00e1ticas, Universidad Aut\u00f3noma de Madrid; Madrid, Spain",
+    "XIII Jornada Estad\u00edstica UAM (2026)<br />XIII Jornada Estad\u00edstica UAM, Departamento de Matem\u00e1ticas, Universidad Aut\u00f3noma de Madrid; Madrid, Spain",
     40.416782,
     -3.703507
   ],
@@ -20,7 +20,7 @@ var addressPoints = [
     0.6267842
   ],
   [
-    "3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society<br />3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society; Milan, Italy",
+    "3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society (2025)<br />3rd Conference of the Statistics and Data Science Group of the Italian Statistical Society; Milan, Italy",
     45.4641943,
     9.1896346
   ],
