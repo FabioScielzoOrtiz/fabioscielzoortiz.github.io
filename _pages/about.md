@@ -11,11 +11,11 @@ I am a Data Scientist at the [UC3M-Santander Big Data Institute (IBiDat)](https:
 
 Research interests
 ======
-* Statistical learning and distance/depth-based methods for complex, large-scale data
+* Statistical learning and distance-based methods for complex, large-scale data
 * Robust clustering for mixed-type and weighted data
 * Applied Statistics
 * Generative AI and its applications
-* Software development for statistics and machine learning (Python packages, APIs, automation)
+* Software development for statistics, machine learning and GenAI (Python packages, APIs, automation)
 
 PhD research
 ======
