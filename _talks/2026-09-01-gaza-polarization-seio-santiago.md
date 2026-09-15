@@ -1,5 +1,5 @@
 ---
-title: "Quantifying Global Polarization: Detection and Analysis of Opinion Groups on the Gaza Conflict at International Level Based on Reddit Data"
+title: "XLII National Congress in Statistics, Operations Research and Data Science (SEIO 2026)"
 collection: talks
 type: "Oral presentation"
 permalink: /talks/2026-09-01-gaza-polarization-seio-santiago
