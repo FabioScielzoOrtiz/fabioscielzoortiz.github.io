@@ -8,4 +8,6 @@ date: 2024-04-01
 location: "Elche, Spain"
 ---
 
-Taught the session "Machine Learning: clasificación supervisada" (Machine Learning: supervised classification) as part of the Data Science course organized by Saturdays AI and ANBAN, held at Universidad de Elche.
+Taught the session "Machine Learning: clasificación supervisada" (Machine Learning: supervised classification) as part of the Data Science course organized by Saturdays AI and ANBAN, held at Universidad de Elche, Spain.
+
+<img src="/images/talk_saturdays_2024.jpeg" alt="Teaching Saturdays AI 2024" style="width: 70%; height: auto; display: block; margin: 0 auto;">
